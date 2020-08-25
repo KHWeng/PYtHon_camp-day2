@@ -1,0 +1,5 @@
+for:給定
+for i in range():   =>給定變數i再某個range
+for 變數 in 有順序的物件
+
+range(a,b,c)//(起，氣，間)，包起不包訖

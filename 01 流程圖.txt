@@ -1,0 +1,8 @@
+起訖(Terminal):橢圓
+輸出入(IO):平行四邊
+處理(Processing):長方
+決定(decision):菱形
+流向(flow direction):箭頭
+
+
+

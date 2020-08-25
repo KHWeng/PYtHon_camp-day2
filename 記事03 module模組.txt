@@ -1,0 +1,6 @@
+module : ¼Ò²Õ
+import : ¶×¤J
+romdom : ÀH¾÷
+import <module>
+<module>.function
+
